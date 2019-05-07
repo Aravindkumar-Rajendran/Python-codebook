@@ -6,12 +6,5 @@ def palindrome(inp):
         return True
     return False
 
-def main():
-    Word = str(input("Enter the string: "))
-    if palindrome(Word):
-        print ("Yes")
-    else:
-        print("No")
-
-if __name__ == "__main__":
-    main()
+if __name__ == "check_import":
+    print ("palindrome")

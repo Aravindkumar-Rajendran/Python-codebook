@@ -27,7 +27,7 @@ def find_path(rootPath, pattern):
     return filepaths
 
 
-rootPath = "C:/Users"
+rootPath = "C:/Users/"
 pattern = "*.jpg" 
 #pattern = ["*.png","*.jpg"] #we can use list to find many number of filetype
 
